@@ -1,0 +1,16 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "A simple API with to endpoints",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Jose Angel Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
